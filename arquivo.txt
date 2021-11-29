@@ -1,0 +1,4 @@
+Total running VMs: 3
+/media/Data/VMware/VM_Linux/Mint_20_Mate_Download_3/Mint_20_Mate.vmx
+/media/Data/VMware/VM_Linux/Fedora_35_Navegacao/Fedora_35_Navegacao.vmx
+/media/Data/VMware/VM_Linux/Mint_20_Mate_Meliuz/Mint_20_Mate.vmx
